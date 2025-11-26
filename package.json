@@ -1,0 +1,28 @@
+{
+  "name": "blade-extended-better-auth",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "blade",
+    "build": "blade build",
+    "serve": "blade serve"
+  },
+  "author": "ronin",
+  "dependencies": {
+    "@better-auth/utils": "^0.3.0",
+    "@react-email/components": "^1.0.1",
+    "better-auth": "^1.4.0",
+    "blade": "3.29.6",
+    "hive": "^2.1.13",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "resend": "^6.5.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/react": "19.2.0",
+    "@types/react-dom": "19.2.0",
+    "typescript": "5.9.2"
+  }
+}

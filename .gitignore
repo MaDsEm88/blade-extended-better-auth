@@ -1,0 +1,5 @@
+# Build output
+.blade/dist/
+
+# Dependencies
+node_modules
