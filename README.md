@@ -307,6 +307,8 @@ pages/login.tsx → Login page
 
 ```bash
 bun add better-auth
+bun add @better-auth/utils
+bun add resend
 ```
 
 ### Required Environment Variables
